@@ -1,8 +1,8 @@
-# Rapport : Exploiter Apache Superset pour Répondre aux Besoins Métiers
+# Rapport : Exploiter App Analytics pour Répondre aux Besoins Métiers
 
 ## Résumé Exécutif
 
-Apache Superset est une plateforme open-source moderne de visualisation de données et de business intelligence. Ce rapport présente une stratégie d'implémentation pour répondre aux besoins spécifiques des départements Finance, Production et Administration des Ventes (ADV) par le déploiement de tableaux de bord interactifs et d'alertes automatisées.
+App Analytics est une plateforme open-source moderne de visualisation de données et de business intelligence. Ce rapport présente une stratégie d'implémentation pour répondre aux besoins spécifiques des départements Finance, Production et Administration des Ventes (ADV) par le déploiement de tableaux de bord interactifs et d'alertes automatisées.
 
 ## Table des Matières
 
@@ -16,9 +16,9 @@ Apache Superset est une plateforme open-source moderne de visualisation de donn�
 
 ## Introduction
 
-Apache Superset offre la capacité de concevoir des tableaux de bord interactifs et des rapports analytiques en s'appuyant sur une multitude de sources de données. Cette plateforme permet de transformer les données brutes en insights actionnables pour optimiser les processus métiers.
+App Analytics offre la capacité de concevoir des tableaux de bord interactifs et des rapports analytiques en s'appuyant sur une multitude de sources de données. Cette plateforme permet de transformer les données brutes en insights actionnables pour optimiser les processus métiers.
 
-**Avantages clés d'Apache Superset :**
+**Avantages clés d'App Analytics :**
 - Interface intuitive et moderne
 - Connectivité étendue aux sources de données
 - Système d'alertes et de rapports automatisés
@@ -356,7 +356,7 @@ graph TB
         CONN[🔌 Connecteurs]
     end
     
-    subgraph "Apache Superset"
+    subgraph "App Analytics"
         DASH[📊 Dashboards]
         ALERT[🔔 Alertes]
         SQL[💻 SQL Lab]
@@ -394,7 +394,7 @@ graph TB
 ## Plan de Déploiement
 
 ### Phase 1 : Fondations (Mois 1-2)
-- Installation et configuration d'Apache Superset
+- Installation et configuration d'App Analytics
 - Connexion aux sources de données principales (ERP, WMS)
 - Formation de l'équipe technique
 
@@ -436,7 +436,7 @@ graph TB
 
 ## Conclusion
 
-Apache Superset se révèle être une plateforme stratégique pour la transformation digitale de l'entreprise. En centralisant la visualisation des données et en automatisant les alertes, elle permet :
+App Analytics se révèle être une plateforme stratégique pour la transformation digitale de l'entreprise. En centralisant la visualisation des données et en automatisant les alertes, elle permet :
 
 1. **Une meilleure visibilité** sur les opérations critiques
 2. **Une réactivité accrue** face aux événements business
