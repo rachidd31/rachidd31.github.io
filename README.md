@@ -1,8 +1,5 @@
 # Rapport : Exploiter App Analytics pour Répondre aux Besoins Métiers
 
-## Résumé Exécutif
-
-App Analytics est une plateforme open-source moderne de visualisation de données et de business intelligence. Ce rapport présente une stratégie d'implémentation pour répondre aux besoins spécifiques des départements Finance, Production et Administration des Ventes (ADV) par le déploiement de tableaux de bord interactifs et d'alertes automatisées.
 
 ## Table des Matières
 
